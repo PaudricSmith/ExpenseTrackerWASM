@@ -1,0 +1,12 @@
+D:\Projects\VisualStudioProjects\ASP_Portfolio\ExpenseTracker\ExpenseTracker\Shared\bin\Debug\net7.0\ExpenseTracker.Shared.deps.json
+D:\Projects\VisualStudioProjects\ASP_Portfolio\ExpenseTracker\ExpenseTracker\Shared\bin\Debug\net7.0\ExpenseTracker.Shared.dll
+D:\Projects\VisualStudioProjects\ASP_Portfolio\ExpenseTracker\ExpenseTracker\Shared\bin\Debug\net7.0\ExpenseTracker.Shared.pdb
+D:\Projects\VisualStudioProjects\ASP_Portfolio\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net7.0\ExpenseTracker.Shared.csproj.AssemblyReference.cache
+D:\Projects\VisualStudioProjects\ASP_Portfolio\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net7.0\ExpenseTracker.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VisualStudioProjects\ASP_Portfolio\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net7.0\ExpenseTracker.Shared.AssemblyInfoInputs.cache
+D:\Projects\VisualStudioProjects\ASP_Portfolio\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net7.0\ExpenseTracker.Shared.AssemblyInfo.cs
+D:\Projects\VisualStudioProjects\ASP_Portfolio\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net7.0\ExpenseTracker.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudioProjects\ASP_Portfolio\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net7.0\ExpenseTracker.Shared.dll
+D:\Projects\VisualStudioProjects\ASP_Portfolio\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net7.0\refint\ExpenseTracker.Shared.dll
+D:\Projects\VisualStudioProjects\ASP_Portfolio\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net7.0\ExpenseTracker.Shared.pdb
+D:\Projects\VisualStudioProjects\ASP_Portfolio\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net7.0\ref\ExpenseTracker.Shared.dll
